@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652705558 source:c:\users\agustina bilotta\desktop\abmautos\bilotta.1p.prog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
